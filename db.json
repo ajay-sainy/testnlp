@@ -1,0 +1,29 @@
+{
+    "totalNumberOfRecords": "335",
+    "investmentStrategies": [
+        {  
+            "id": "341",
+            "name": "Spectrum International",
+            "investmentSuite": {
+                "id": "43",
+                "name": "Multi-Asset  - Balanced"
+            },
+            "assetClass": {
+                "id": "13",
+                "name": "Multi-Asset"
+            }
+        },
+        {
+            "id": "342",
+            "name": "Global Allocation Extended",
+            "investmentSuite": {
+                "id": "62",
+                "name": "Multi-Asset - Global"
+            },
+            "assetClass": {
+                "id": "13",
+                "name": "Multi-Asset"
+            }
+        }
+    ]
+}
